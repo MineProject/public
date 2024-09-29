@@ -1,0 +1,13 @@
+{
+	"bot": {
+		"id": "1283045936641212428",
+		"prefix": "d!",
+		"secret": "HZYNmmO-dQA-rw1ohb5DpXME6nVBJt1J",
+		"status": "dnd",
+		"url": "https://minehubnw.com/auth/login",
+		"production": true
+	},
+	"app": {
+		"port": 6969
+	}
+}
